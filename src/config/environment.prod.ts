@@ -2,12 +2,13 @@ import { LanguageType } from 'store/reducers/locale/langugeType'
 
 export const environment = {
   firebase: {
-    apiKey: 'AIzaSyAHOZ7rWGDODCwJMB3WIt63CAIa90qI-jg',
-    authDomain: 'test-4515a.firebaseapp.com',
-    databaseURL: 'https://test-4515a.firebaseio.com',
-    projectId: 'test-4515a',
-    storageBucket: 'test-4515a.appspot.com',
-    messagingSenderId: '964743099489'
+    apiKey: 'AIzaSyBLOKXA5at4CiqVJK2QLaO9UbXLk4VhqEY',
+    authDomain: 'calcium-circuit-130020.firebaseapp.com',
+    databaseURL: 'https://calcium-circuit-130020.firebaseio.com',
+    projectId: 'calcium-circuit-130020',
+    storageBucket: 'calcium-circuit-130020.appspot.com',
+    messagingSenderId: '855866425804',
+    appId: '1:855866425804:web:52f75a625d4ad393'
   },
   settings: {
     enabledOAuthLogin: true,
